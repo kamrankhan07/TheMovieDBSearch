@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  TheMovieDBSearch
+//
+//  Created by Kamran Khan on 26/06/2015.
+//  Copyright (c) 2015 Kamran Khan. All rights reserved.
+//
+
+#ifndef TheMovieDBSearch_PrefixHeader_pch
+#define TheMovieDBSearch_PrefixHeader_pch
+
+#import "Constants.h"
+#import "SettingsManager.h"
+
+#endif
