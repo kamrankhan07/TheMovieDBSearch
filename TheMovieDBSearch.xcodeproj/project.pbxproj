@@ -7,19 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B3099E391B3DF0DB00E1C81A /* BackdropPlaceholder@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B3099E381B3DF0DB00E1C81A /* BackdropPlaceholder@2x.png */; };
 		B3099E3F1B3E134900E1C81A /* AXRatingView.m in Sources */ = {isa = PBXBuildFile; fileRef = B3099E3E1B3E134900E1C81A /* AXRatingView.m */; };
 		B350319D1B3E3D9E0085D348 /* CustomUIScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = B350319C1B3E3D9E0085D348 /* CustomUIScrollView.m */; };
 		B35C31A41B3CB60800A80929 /* SettingsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B35C31A31B3CB60800A80929 /* SettingsTableViewController.m */; };
-		B35C31B11B3CC3F800A80929 /* SettingsIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B35C31B01B3CC3F800A80929 /* SettingsIcon@2x.png */; };
 		B35C31B51B3CCC5000A80929 /* TMDBMovieMetaData.m in Sources */ = {isa = PBXBuildFile; fileRef = B35C31B41B3CCC5000A80929 /* TMDBMovieMetaData.m */; };
-		B35C31BE1B3CDCDC00A80929 /* placeholder-small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B35C31BC1B3CDCDC00A80929 /* placeholder-small@2x.png */; };
-		B35C31BF1B3CDCDC00A80929 /* placeholder@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B35C31BD1B3CDCDC00A80929 /* placeholder@2x.png */; };
 		B37631991B3DA8080066A6D1 /* SettingsManager.m in Sources */ = {isa = PBXBuildFile; fileRef = B37631981B3DA8080066A6D1 /* SettingsManager.m */; };
 		B376319D1B3DCE8D0066A6D1 /* MovieSearchLoadingTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B376319C1B3DCE8D0066A6D1 /* MovieSearchLoadingTableViewCell.m */; };
 		B3B322361B3CE3AC00CCD9F3 /* MovieDetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B3B322351B3CE3AC00CCD9F3 /* MovieDetailsViewController.m */; };
 		B3B3223A1B3CEF9800CCD9F3 /* TMDBMovieDetailedData.m in Sources */ = {isa = PBXBuildFile; fileRef = B3B322391B3CEF9800CCD9F3 /* TMDBMovieDetailedData.m */; };
-		B3B3223C1B3CF87C00CCD9F3 /* IMDBIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B3B3223B1B3CF87C00CCD9F3 /* IMDBIcon@2x.png */; };
 		B3CCC3111B3B303F00C17315 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B3CCC3101B3B303F00C17315 /* main.m */; };
 		B3CCC3141B3B303F00C17315 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B3CCC3131B3B303F00C17315 /* AppDelegate.m */; };
 		B3CCC31A1B3B303F00C17315 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B3CCC3181B3B303F00C17315 /* Main.storyboard */; };
@@ -58,20 +53,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		B3099E381B3DF0DB00E1C81A /* BackdropPlaceholder@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BackdropPlaceholder@2x.png"; sourceTree = "<group>"; };
 		B3099E3D1B3E134900E1C81A /* AXRatingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AXRatingView.h; sourceTree = "<group>"; };
 		B3099E3E1B3E134900E1C81A /* AXRatingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AXRatingView.m; sourceTree = "<group>"; };
 		B350319B1B3E3D9E0085D348 /* CustomUIScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomUIScrollView.h; sourceTree = "<group>"; };
 		B350319C1B3E3D9E0085D348 /* CustomUIScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomUIScrollView.m; sourceTree = "<group>"; };
 		B35C31A21B3CB60800A80929 /* SettingsTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsTableViewController.h; sourceTree = "<group>"; };
 		B35C31A31B3CB60800A80929 /* SettingsTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsTableViewController.m; sourceTree = "<group>"; };
-		B35C31B01B3CC3F800A80929 /* SettingsIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SettingsIcon@2x.png"; sourceTree = "<group>"; };
 		B35C31B31B3CCC5000A80929 /* TMDBMovieMetaData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMDBMovieMetaData.h; sourceTree = "<group>"; };
 		B35C31B41B3CCC5000A80929 /* TMDBMovieMetaData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TMDBMovieMetaData.m; sourceTree = "<group>"; };
 		B35C31B61B3CD2FB00A80929 /* Constants.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Constants.h; sourceTree = "<group>"; };
 		B35C31B71B3CD35E00A80929 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = PrefixHeader.pch; path = ../PrefixHeader.pch; sourceTree = "<group>"; };
-		B35C31BC1B3CDCDC00A80929 /* placeholder-small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "placeholder-small@2x.png"; sourceTree = "<group>"; };
-		B35C31BD1B3CDCDC00A80929 /* placeholder@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "placeholder@2x.png"; sourceTree = "<group>"; };
 		B37631971B3DA8080066A6D1 /* SettingsManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsManager.h; sourceTree = "<group>"; };
 		B37631981B3DA8080066A6D1 /* SettingsManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsManager.m; sourceTree = "<group>"; };
 		B376319B1B3DCE8D0066A6D1 /* MovieSearchLoadingTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MovieSearchLoadingTableViewCell.h; sourceTree = "<group>"; };
@@ -80,7 +71,6 @@
 		B3B322351B3CE3AC00CCD9F3 /* MovieDetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MovieDetailsViewController.m; sourceTree = "<group>"; };
 		B3B322381B3CEF9800CCD9F3 /* TMDBMovieDetailedData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMDBMovieDetailedData.h; sourceTree = "<group>"; };
 		B3B322391B3CEF9800CCD9F3 /* TMDBMovieDetailedData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TMDBMovieDetailedData.m; sourceTree = "<group>"; };
-		B3B3223B1B3CF87C00CCD9F3 /* IMDBIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "IMDBIcon@2x.png"; sourceTree = "<group>"; };
 		B3CCC30B1B3B303F00C17315 /* TheMovieDBSearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TheMovieDBSearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B3CCC30F1B3B303F00C17315 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B3CCC3101B3B303F00C17315 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -268,7 +258,6 @@
 		B3CCC30E1B3B303F00C17315 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				B3D630031B3B6DF7007E475C /* Resources */,
 				B35C31B71B3CD35E00A80929 /* PrefixHeader.pch */,
 				B3CCC30F1B3B303F00C17315 /* Info.plist */,
 				B3CCC3101B3B303F00C17315 /* main.m */,
@@ -321,18 +310,6 @@
 				B3CCC33E1B3B564A00C17315 /* MovieSearchTableViewCell.m */,
 			);
 			name = MovieSearchTableViewCell;
-			sourceTree = "<group>";
-		};
-		B3D630031B3B6DF7007E475C /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				B35C31B01B3CC3F800A80929 /* SettingsIcon@2x.png */,
-				B35C31BC1B3CDCDC00A80929 /* placeholder-small@2x.png */,
-				B3099E381B3DF0DB00E1C81A /* BackdropPlaceholder@2x.png */,
-				B35C31BD1B3CDCDC00A80929 /* placeholder@2x.png */,
-				B3B3223B1B3CF87C00CCD9F3 /* IMDBIcon@2x.png */,
-			);
-			name = Resources;
 			sourceTree = "<group>";
 		};
 		B3D630081B3B6FFC007E475C /* 3rd Party Libraries */ = {
@@ -464,14 +441,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B3099E391B3DF0DB00E1C81A /* BackdropPlaceholder@2x.png in Resources */,
-				B35C31BE1B3CDCDC00A80929 /* placeholder-small@2x.png in Resources */,
 				B3CCC31A1B3B303F00C17315 /* Main.storyboard in Resources */,
-				B3B3223C1B3CF87C00CCD9F3 /* IMDBIcon@2x.png in Resources */,
-				B35C31BF1B3CDCDC00A80929 /* placeholder@2x.png in Resources */,
 				B3CCC31F1B3B303F00C17315 /* LaunchScreen.xib in Resources */,
 				B3CCC31C1B3B303F00C17315 /* Images.xcassets in Resources */,
-				B35C31B11B3CC3F800A80929 /* SettingsIcon@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
